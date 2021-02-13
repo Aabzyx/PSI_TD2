@@ -5,3 +5,10 @@ D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.csprojAssemblyReference
 D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
 D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.exe
 D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.pdb
+D:\A2\S4\Projet scientifique info\TD2\bin\Debug\TD2.exe.config
+D:\A2\S4\Projet scientifique info\TD2\bin\Debug\TD2.exe
+D:\A2\S4\Projet scientifique info\TD2\bin\Debug\TD2.pdb
+D:\A2\S4\Projet scientifique info\TD2\obj\Debug\TD2.csprojAssemblyReference.cache
+D:\A2\S4\Projet scientifique info\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+D:\A2\S4\Projet scientifique info\TD2\obj\Debug\TD2.exe
+D:\A2\S4\Projet scientifique info\TD2\obj\Debug\TD2.pdb
