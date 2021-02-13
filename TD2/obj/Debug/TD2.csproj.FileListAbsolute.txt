@@ -1,0 +1,7 @@
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\bin\Debug\TD2.exe.config
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\bin\Debug\TD2.exe
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\bin\Debug\TD2.pdb
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.csprojAssemblyReference.cache
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.exe
+D:\OneDrive - De Vinci\A2 ESILV\S4\PSI\TD2\obj\Debug\TD2.pdb
